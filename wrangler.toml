@@ -1,4 +1,4 @@
-name = "navsphere"
+name = "yyplatform"
 compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -6,10 +6,10 @@ pages_build_output_dir = ".vercel/output/static"
 
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
+GITHUB_ID = "Ov23liLA0oWDaqad8cb2"
+GITHUB_OWNER = "oneyy"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
-NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
+NEXTAUTH_URL = "https://yyplatform.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://yyplatform.pages.dev/"
 
